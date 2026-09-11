@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B5EAA,50:6B7FBF,100:9BA4C7&height=200&section=header&text=Yasir%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B5EAA,50:6B7FBF,100:9BA4C7&height=200&section=header&text=Ahmad%20Shahzad&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=4B5EAA&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Engineer;Flutter+%C2%B7+iOS+%C2%B7+Android+%C2%B7+React+Native;Building+reliable+and+scalable+backend+services;Turning+ideas+into+products+users+genuinely+love!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=4B5EAA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Node.js;Building+AI+Agents+%26+Automation+Systems;Turning+ideas+into+scalable+products!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,76 +13,71 @@
 ## <img src="https://unpkg.com/lucide-static@latest/icons/user.svg" height="30" align="absmiddle" /> &nbsp; About Me
 
 <p>
- I’m a Full Stack Engineer with extensive experience building mobile and web applications that help businesses grow and solve real-world problems. Over the years, I’ve worked with startups, growing companies, and enterprise teams to design, develop, and launch scalable digital products. My expertise spans mobile development, modern web technologies, backend systems, and software architecture. Whether I'm developing a high-performance mobile app, building scalable backend services, or creating intuitive user experiences, I focus on delivering solutions that are reliable, maintainable, and aligned with business goals. I enjoy turning ideas into products, solving complex technical challenges, and collaborating with teams to create software that users genuinely love.
+ I'm a Full Stack Developer with 2+ years of experience building scalable web and mobile applications using React.js, Next.js, React Native, Node.js, Express.js, and TypeScript. I specialize in integrating AI-powered agents and automations into real business workflows — using n8n, LLM APIs, and real-time communication tools like WebRTC and WhatsApp. Whether I'm architecting a full-stack platform, building cross-platform mobile apps, or designing AI agent workflows that automate customer support and sales, I focus on performance, scalability, and production-ready code. I enjoy solving complex technical problems and collaborating with teams to ship software that actually works for the people using it.
 </p>
 <br />
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" height="30" align="absmiddle" /> &nbsp; Tech Stack
 
-**Mobile Platforms**
+**Frontend**
 
-<span><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></span> <span><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></span> <span><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></span> <span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></span> <span><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></span> <span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></span> <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span>
+<span><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" /></span> <span><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></span> <span><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></span> <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span> <span><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></span>
 
-**VoIP & Real-Time Communication**
+**Backend**
 
-<span><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></span> <span><img src="https://img.shields.io/badge/SIP_Protocol-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></span> <span><img src="https://img.shields.io/badge/Amazon_Chime_SDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Chime" /></span> <span><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></span> <span><img src="https://img.shields.io/badge/PushKit%2FFCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></span>
+<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></span> <span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></span> <span><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></span> <span><img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" /></span>
 
-**Cloud, Backend & Full Stack**
+**Databases**
 
-<span><img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" /></span> <span><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></span> <span><img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" /></span> <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></span> <span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></span> <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></span> <span><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></span> <span><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></span> <span><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></span>
+<span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></span> <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></span>
 
-<br />
+**Real-Time & Communication**
 
-**Architecture & State Management**
+<span><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></span> <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></span> <span><img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" /></span>
 
-<span><img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white" alt="Clean Architecture" /></span> <span><img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" /></span> <span><img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white" alt="Riverpod" /></span> <span><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></span> <span><img src="https://img.shields.io/badge/MVVM%2FVIPER-FF6F61?style=for-the-badge&logoColor=white" alt="MVVM" /></span>
+**AI & Automation**
 
-**CI/CD & Tools**
+<span><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></span> <span><img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" /></span> <span><img src="https://img.shields.io/badge/LLM_APIs-4B5EAA?style=for-the-badge&logoColor=white" alt="LLM APIs" /></span>
 
-<span><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></span> <span><img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" /></span> <span><img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logoColor=white" alt="Codemagic" /></span> <span><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /></span> <span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></span>
+**Payments & Integrations**
+
+<span><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /></span> <span><img src="https://img.shields.io/badge/Shopify_API-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify API" /></span> <span><img src="https://img.shields.io/badge/Webhooks-4B5EAA?style=for-the-badge&logoColor=white" alt="Webhooks" /></span>
 
 <br />
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/folder-kanban.svg" height="30" align="absmiddle" /> &nbsp; Featured Projects
 
-### **CloudCall** &nbsp; `iOS / Android`
+### **NexTalk** &nbsp; `React Native / Web`
 
-> Enterprise-grade VoIP and real-time communication platform featuring SIP integration and native call handling via CallKit and ConnectionService.
+> Real-time cross-platform messaging and video calling application supporting instant messaging, voice/video calls, media sharing, presence, typing indicators, and push notifications.
 
-<span><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></span> <span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></span> <span><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></span> <span><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></span> <span><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></span> <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></span>
+<span><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></span> <span><img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" /></span> <span><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></span> <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></span>
 
-### **Smart Echo** &nbsp; `iOS / Android / Web`
+### **CareSync** &nbsp; `Web`
 
-> AI-enhanced enterprise VoIP platform featuring real-time transcription, SIP integration, and native call handling via CallKit and ConnectionService.
+> Full-stack healthcare platform for appointment scheduling, doctor availability, patient workflows, and clinical management with secure, role-based access control.
 
-<span><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></span> <span><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></span> <span><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></span> <span><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></span> <span><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></span> <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></span> <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></span> <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span>
 
-### **Fayvo** &nbsp; `Android`
+### **CashSmarty** &nbsp; `Web`
 
-> Secure media-sharing social platform with AWS Cognito authentication and real-time location tracking. Supports encrypted media uploads and dynamic content rendering.
+> Financial management platform for expense tracking, budgeting, cash-flow analysis, and AI-powered financial insights and recommendations.
 
-<span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></span> <span><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></span> <span><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></span> <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></span> <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span> <span><img src="https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logoColor=white" alt="Groq AI" /></span>
 
-### **TeamHub** &nbsp; `iOS / Android`
+### **InvoiceSmarty** &nbsp; `Web`
 
-> Enterprise-grade VoIP and team communication platform featuring SIP integration, presence management, and native call handling via CallKit.
+> Modern billing platform with multi-currency invoicing, recurring subscriptions, automated billing, PDF invoices, client portals, and automated payment reminders.
 
-<span><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></span> <span><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></span> <span><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></span> <span><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></span> <span><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></span> <span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></span> <span><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /></span> <span><img src="https://img.shields.io/badge/Webhooks-4B5EAA?style=for-the-badge&logoColor=white" alt="Webhooks" /></span>
 
-### **MouseWait** &nbsp; `iOS / Android`
+### **Bridge-Comm Store** &nbsp; `Web`
 
-> Disneyland companion app with live ride wait times, park updates, and interactive map overlays. REST APIs for real-time sync with park data and community features for Disney fans.
+> E-commerce platform integrating Shopify and TeleDynamics for telecom product management, catalog synchronization, inventory, pricing, and automated order fulfillment.
 
-<span><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></span> <span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></span> <span><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></span> <span><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></span>
-
-### **VOIP Distributor** &nbsp; `Web`
-
-> Business management dashboard for VoIP equipment distributors. Integrates Shopify store data with inventory tracking and interactive revenue analytics charts.
-
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></span> <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></span> <span><img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></span> <span><img src="https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Charts.js" /></span>
+<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></span> <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></span> <span><img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></span> <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></span>
 
 <br />
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BA4C7,50:6B7FBF,100:4B5EAA&height=120&section=footer" width="100%" />
